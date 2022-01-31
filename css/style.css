@@ -1,0 +1,29 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    background-color: #E3f6ff
+}
+
+nav li{
+    font-style: italic;
+}
+
+nav li a:hover, a:focus{
+    color:cornflowerblue;
+    text-decoration-line:underline;
+    -webkit-text-decoration-style: dotted;
+            text-decoration-style: dotted;
+  }
+
+#shoushou {
+    border: 3px solid darkslateblue;
+    padding: 3px;
+    border-radius: 3px;
+    margin: auto;
+}
+
+h1 {
+    font-style: oblique;
+    text-align: left;
+}
